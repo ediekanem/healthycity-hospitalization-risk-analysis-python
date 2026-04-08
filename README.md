@@ -1,6 +1,6 @@
 # HealthyCity Hospitalization Risk Analysis in Python
 
-This project analyzes public health data in Python to identify patient characteristics associated with hospitalization for seasonal respiratory illness. The work focuses on understanding the patient population, exploring hospitalization patterns across key health and behavioral variables, and highlighting factors that may be linked to higher hospitalization risk.
+This project analyzes public health data in Python to identify patient characteristics associated with hospitalization for seasonal respiratory illness. The work focuses on understanding the patient population, exploring hospitalization patterns across key health and behavioural variables, and highlighting factors that may be linked to higher hospitalization risk.
 
 ## Overview
 
@@ -58,7 +58,7 @@ The dataset contains patient-level public health data with variables including:
 
 - Prioritize patients with more severe disease presentations for closer monitoring and earlier intervention.
 - Incorporate chronic condition burden into risk screening because hospitalized patients showed a higher average number of chronic conditions.
-- Strengthen preventive outreach and follow-up for patients with higher-risk behavioral and clinical profiles, including smokers and patients with elevated severity levels.
+- Strengthen preventive outreach and follow-up for patients with higher-risk behavioural and clinical profiles, including smokers and patients with elevated severity levels.
 - Use the identified variables as a starting point for future predictive modeling or risk scoring work to better support hospitalization prevention efforts.
 
 ## What This Project Demonstrates
