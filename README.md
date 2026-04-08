@@ -63,7 +63,7 @@ The dataset contains patient-level public health data with variables including:
 
 ## What This Project Demonstrates
 
-This project demonstrates the ability to use Python to inspect and analyze public health data, compare hospitalization patterns across patient characteristics, create clear visualizations, encode features for analysis, and generate practical insights from health-related data.
+This project demonstrates my ability to use Python to inspect and analyze public health data, compare hospitalization patterns across patient characteristics, create clear visualizations, encode features for analysis, and generate practical insights from health-related data.
 
 ## Project Files
 
